@@ -457,7 +457,7 @@ public final class PacketOpcodes {
     public static final int StoreItemDelNotify = 9567;
     public static final int AvatarAddNotify = 4216;
     public static final int UnlockAvatarTalentReq = 6454;
-    public static final int UnlockAvatarTalentRsp = 23185; 
+    public static final int UnlockAvatarTalentRsp = 23185;
     public static final int ChangeMpTeamAvatarReq = 28747;
     public static final int ChangeMpTeamAvatarRsp = 28252;
     public static final int SkipPlayerGameTimeReq = 29432;
@@ -1005,7 +1005,7 @@ public final class PacketOpcodes {
     public static final int EnterUgcDungeonReq = 1;
     public static final int EnterUgcDungeonRsp = 1;
     public static final int EntityAiKillSelfNotify = 1;
-    public static final int EntityAiSyncNotify = 1;
+    public static final int EntityAiSyncNotify = 23720;
     public static final int EntityConfigHashNotify = 1;
     public static final int EntityForceSyncReq = 1;
     public static final int EntityForceSyncRsp = 1;
@@ -1019,7 +1019,7 @@ public final class PacketOpcodes {
     public static final int EvtAnimatorStateChangedNotify = 1;
     public static final int EvtAvatarEnterFocusNotify = 1;
     public static final int EvtAvatarExitFocusNotify = 1;
-    public static final int EvtAvatarUpdateFocusNotify = 1;
+    public static final int EvtAvatarUpdateFocusNotify = 28630;
     public static final int EvtBeingHealedNotify = 1;
     public static final int EvtBulletDeactiveNotify = 1;
     public static final int EvtBulletMoveNotify = 1;
@@ -2018,7 +2018,7 @@ public final class PacketOpcodes {
     public static final int SceneDestroyEntityRsp = 1;
     public static final int SceneEntitiesMoveCombineNotify = 1;
     public static final int SceneEntitiesMovesReq = 1;
-    public static final int SceneEntityDrownReq = 1;
+    public static final int SceneEntityDrownReq = 6447;
     public static final int SceneEntityMoveNotify = 1;
     public static final int SceneEntityMoveReq = 1;
     public static final int SceneEntityMoveRsp = 1;
